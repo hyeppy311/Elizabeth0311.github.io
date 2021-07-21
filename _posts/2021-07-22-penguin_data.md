@@ -1,3 +1,10 @@
+---
+title: Hello!
+categories: [dev]
+comments: true
+---
+
+
 seaborn 펭귄데이터 불러오기
 
 import seaborn as sns
