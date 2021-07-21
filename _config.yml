@@ -22,9 +22,9 @@ cusdis:
 user:
   name: HyeRi_Moon
   pic: /assets/img/profileimg.jpg
-  picAlt: "catbook"
+  picAlt: "Wanna Be Data Engineer"
   job: 찾는중
-  aboutme: true # comment this out if you don't need the 'about' page.
+  aboutme: True # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
