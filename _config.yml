@@ -21,7 +21,7 @@ cusdis:
 
 user:
   name: HyeRi_Moon
-  pic: /assets/img/profileimg.jpg
+  pic: /assets/profileimg.jpg
   picAlt: "Wanna Be Data Engineer"
   job: 찾는중
   aboutme: True # comment this out if you don't need the 'about' page.
